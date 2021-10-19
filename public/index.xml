@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://Co-So.github.io.o/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Oct 2021 23:58:18 +0800</lastBuildDate><atom:link href="https://Co-So.github.io.o/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一份测试</title>
+      <link>https://Co-So.github.io.o/post/%E7%AC%AC%E4%B8%80%E4%BB%BD%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Tue, 19 Oct 2021 23:58:18 +0800</pubDate>
+      
+      <guid>https://Co-So.github.io.o/post/%E7%AC%AC%E4%B8%80%E4%BB%BD%E6%B5%8B%E8%AF%95/</guid>
+      <description>猫和老鼠的约会 sdfsd sdfs sdfs fsd fsdfsdf sdf sdf sdf sdfsdfsasdfag sdfsdfl sdfsf &amp;ndash; sdfssdflsdfjsljf  </description>
+    </item>
+    
+  </channel>
+</rss>
